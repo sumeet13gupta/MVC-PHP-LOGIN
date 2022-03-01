@@ -3,3 +3,4 @@ A simple MVC framework implementation in PHP to learn PHP and MVC design structu
 
 # About Project
 we will be creating an Apache-MySq-Php application.
+we will require XAMPP ( Apache + MariaDB + PHP + Perl )
